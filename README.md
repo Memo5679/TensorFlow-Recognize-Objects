@@ -15,6 +15,5 @@ Developers describe OpenCV as "Open Source Computer Vision Library". OpenCV was 
 In this example, I have used tensor flow to detect and recognize objects with inference time, inference refers to the process of using a trained machine learning algorithm to make a prediction. I have also made a model and trained that model.
 
 # Output
-------------------
 <img width="1440" alt="Screen Shot 2020-07-17 at 11 15 00 PM" src="https://user-images.githubusercontent.com/50755701/87828542-d18b6300-c885-11ea-96c9-a61e2793e90e.png">
 <img width="1440" alt="Screen Shot 2020-07-17 at 11 15 18 PM" src="https://user-images.githubusercontent.com/50755701/87828554-d819da80-c885-11ea-9237-79ebafe069a3.png"> 
